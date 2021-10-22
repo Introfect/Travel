@@ -258,6 +258,10 @@ background-color: #262A53;
         height: 100vh;
         align-items: flex-start;
       }
+
+body{
+overflow-x: hidden;
+}
       #images{
         display: flex;
         justify-content: space-evenly;
